@@ -1,0 +1,2 @@
+# Mathematical-Contest-in-Modeling-Interdisciplinary-Contest-in-Modeling-MCM-ICM-2026_C
+We study DWTS eliminations that combine judges’ scores with hidden fan votes under season rules. Our auditable pipeline estimates weekly fan vote shares with uncertainty, replays counterfactual rules, compares judge vs. fan effects of celebrity traits and pro dancers, and adds a fairness mechanism for controversial weeks.
